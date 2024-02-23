@@ -1,0 +1,6 @@
+build-*
+WallpaperGen/__pycache__
+WallpaperGen/WallpaperGen.pro.user
+opus-mt-zh-en
+stable-diffusion-xl-base-1.0
+test.jpg
